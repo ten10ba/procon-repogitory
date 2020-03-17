@@ -1,0 +1,12 @@
+{
+	"id": 10973825,
+	"epoch_second": 1584484625,
+	"problem_id": "tenka1_2018_b",
+	"contest_id": "tenka1-2018-beginner",
+	"user_id": "tenba",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 200,
+	"length": 1107,
+	"result": "AC",
+	"execution_time": 1
+}
